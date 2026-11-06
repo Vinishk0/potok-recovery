@@ -1,10 +1,17 @@
 {
   "android": {
-    "version": "0.4.11",
-    "url": "https://github.com/Vinishk0/potok-recovery/releases/download/v0.4.11/potok-vpn-0.4.11.apk",
+    "version": "0.4.13",
+    "url": "https://github.com/Vinishk0/potok-recovery/releases/download/v0.4.13/potok-vpn-0.4.13.apk",
     "size": 32780149,
-    "sha256": "dff7e980d466f42ec4f13529bda22c0400e18fc5d397832282c6448af9c2f3ed",
-    "code": 17,
-    "signature": "HaIL5Yv0xCy74mDR3Pw5D7p64hPWk4deLlnkZYB87bEUGFdR0xFnEsIJxIvWDbR6VPJBZS+2wdhjao/Wk8h/HSBn1lLownDlLXVBnuaxC271JgNfNpWiKLfei/blaGGEPLlnHRG4UwbuZYxWu/RRwbjyntkmxsWiar3gg/OrbejLBlfUgRWcoq96p0SemzwfTcMFDJUkAJnR1LG/inMFRsGAFas4lDcW34jvN4oGPM9uNI7atMdxpgY/QwXVNE+uzkWpGCvAiX8VWa0/r3Gv0+OKJA1GtEbuAM/tk1gZ1x5KBomlWCaz8X/ziTh2gHmzcYJJLOgv5zUc5/W66v9MYDMea+WL29PAbdjGHnqDSoWHFB+IHie8vLQds7WPecZ7NM4x1HSiabpW7XXK6sretAwDv+hYJZhSfSONTmUUsa5VGiEGU5UOB/4z08Ru+kdFjBeFI2r5HkjNDCruRjilcjhVC2jCcFop02tIq4y/75yK5Nhphs9aVhwdoKFwdd/2"
+    "sha256": "7ced54099afa3fef654bace96d1ef10377557c73ee869bf75ebd152a5e7648c2",
+    "code": 19,
+    "signature": "nAo5Cor8Ys2bhBeGDuehLRs20FTDfFR4m1xo1H/gPJTJ0BLSD0igJeMmaqwe0RjnO2E9VmfptZDL+CxVSdy1mYmrjZDRJgroJemzd+M9yQtgQfOI3cSDEwIVx+ZoOBeCzuIajhVPmWkoqFGHeOTBB0mp2DIoZ/RqnGVmTjbeoY7uac0kCdzKDq/EXQUhl8VcAya1nJWi5SYtW1ACKK/qJ2F6zmDp1ivXMPgKEeygDLiqa4GkgwPKMcQhYp/ysSud7KpauUHXs/cx/F1k5QYWqEZZO922dxm5Iy7H5D68gkHRENnP28SKhh3hqZnPR3dkemnRoDYnTnJ+YNyK8gLFyXs5Wr+o7ntyx4YXwZ+YH3vrsZTs8QFn3LoozR2NwsZKw0C5DaFHvgxOkGQiiCnWlxpYZ/7Vx+oADidWB8ZwKKlV0tdRo1ADN1Cnq53mtna09dopEm+IsCSN5sblVzJx6C8N1jWwWZrhAzdarj0UF6K1tikc3AZYh6/6Ah6KQSsx"
+  },
+  "windows": {
+    "version": "0.2.8",
+    "url": "https://github.com/Vinishk0/potok-recovery/releases/download/v0.2.8/PotokVPN-Windows-0.2.8.zip",
+    "size": 35339778,
+    "sha256": "7cac71d73ba3e28f43642c8209d837a977aa73f7e88bee3c43b7f44895211c75",
+    "signature": "rnRcMwy4wmUF4b3FJYam/CK+sQt3DbaLKRjDijzD0UaCqwSPmMQRj7had/9Li2+eeYYQ1Sg7+U18SYv9e6gq192FJVJVTCawYSVgnFZbbl1eoLg3EN1NobQ0qmhdScPvxB5i5NsVauGqI6yBnMU2wLuyRQN8CJNJ4vU3X5xywrQRRK/JF4MV8PkeyXN9iPpd/egb2DDcWdj4ze4lmcNnt23GVaxC+p2Fa/0fOd7MMdmRJIXrXcCHKBDShIt2gkXEcwBmc+Y3YdLNPjf2C2O6T6mFZ+KOPbfF/SFZoptre11rjx8p7xaMRSiPdH9akphtCp6QgXwmB+ro8g/Um1/IPbUmiy8Z22yPmxXeIpyeE20CCORyLpg0EsaU+sfSAt0qypXEscCIwEhlfUQ6VGxx26wune/6HZzZ+JIBwItYaCP6HqHUAScq57golfeDIKGKiTREe9LJTyIYbS6TDpO+kn4Ur1Szp6oOEBC1NQFgKyL0UdSnZuPgGotAXf7dcm7m"
   }
 }
